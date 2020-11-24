@@ -1,0 +1,9 @@
+<template>
+    <div class="slds-p-around_medium lgc-bg">
+        <lightning-card class="slds-p-top_small" icon-name="custom:custom15" title="Rules Viewer">    
+        <lightning-button label="Open Details" icon-name="utility:internal_share" class="slds-m-left_x-small" slot="actions" onclick={handleClick}></lightning-button>
+        <p class="slds-p-horizontal_small">Click on the line and the button to open the object details.</p>
+        <p class="slds-p-horizontal_small"><lightning-tree items={items} header="Rules" onselect={setSelectedItem}></lightning-tree></p>
+        </lightning-card>
+    </div>
+</template>
