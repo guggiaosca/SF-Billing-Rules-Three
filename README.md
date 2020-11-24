@@ -5,7 +5,7 @@ This Lightning Web Component makes it easier for the Salesforce Billing administ
 
 It will show a hierarchy tree with the product:
 
-Billing Rule
+**Billing Rule**
 
 --Billing Treatments
 
@@ -15,7 +15,7 @@ Billing Rule
 
 
 
-Revenue Recognition Rule
+**Revenue Recognition Rule**
 
 --Revenue Recognition Treatments
 
@@ -24,7 +24,7 @@ Revenue Recognition Rule
 ------Revenue Recognition GL Treatments
 
 
-Tax Rule
+**Tax Rule**
 
 --Tax Treatments
 
