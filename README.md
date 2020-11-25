@@ -3,7 +3,7 @@ A LWC that can be placed in the product record page and shows the entire Billing
 
 This Lightning Web Component makes it easier for the Salesforce Billing administrator to follow the current product rules configuration.
 
-![Image of Rules Viewer](https://imgur.com/AuQgm2e)
+![Image of Rules Viewer](https://i.imgur.com/AuQgm2e.png)
 
 
 It will show a hierarchy tree with the product:
